@@ -20,4 +20,9 @@ It normally takes 10 years of development to raise power plant efficiency levels
 
 ## CUSC
 Connection and use of system charges are a combined overall cost for:
-1. connecting generation to the transmission 
+1. connecting generation to the transmission network
+2. balancing services use of system charges (day to day balancing of the system to calculate the imbalance/system price)
+3. distributor use of system charges (costs of the local/regional distribution network)
+4. transmission use of system charges (costs of bulk transport of power between different locations)
+
+
